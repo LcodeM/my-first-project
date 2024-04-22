@@ -202,6 +202,14 @@ main {
     line-height: 0;
 }
 
+/* Sign up page */
+#signup {
+    background: url("assets/images/signup-image.webp") no-repeat  75% / cover;
+    display: flex;
+    flex-grow: 1;
+}
+
+
 /* Footer */
 
 #social-networks {
