@@ -204,7 +204,7 @@ main {
 
 /* Sign up page */
 #signup {
-    background: url("assets/images/signup-image.webp") no-repeat  75% / cover;
+    background: url("assets/images/signup-image.webp") no-repeat center/cover;
     display: flex;
     flex-grow: 1;
 }
