@@ -234,6 +234,16 @@ main {
         text-align: end;
         align-self: flex-end;
     }
+
+    /* Meet-up section */
+
+    #times {
+        background: url("../images/dublin-city.webp") no-repeat center/cover;
+    }
+
+    #times > div {
+        flex-wrap: wrap;
+    }
 }
 
 /* Media query: small laptops and larger (992px +) Hover effect */
