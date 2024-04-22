@@ -241,7 +241,7 @@ main {
         background: url("../images/dublin-city.webp") no-repeat center/cover;
     }
 
-    #times > div {
+    #times div {
         flex-wrap: wrap;
     }
 }
